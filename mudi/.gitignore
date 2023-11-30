@@ -1,0 +1,40 @@
+# Eclipse
+bin/
+target/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.iws
+*.ipr
+out/
+
+# Spring Boot
+spring-boot-starter-parent/target/
+spring-boot-starter/target/
+spring-boot-starter-*/target/
+target/
+
+# Maven
+log/
+target/
+*.iml
+.idea/
+.mvn/
+
+# Compiled class file
+*.class
+
+# Compiled JAR files and dependencies
+target/
+lib/
+
+# IDE files
+*.project
+*.classpath
+*.settings/
+
+# Miscellaneous
+*.log
+*.swp
